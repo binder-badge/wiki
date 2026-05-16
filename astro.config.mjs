@@ -27,6 +27,10 @@ export default defineConfig({
 					label: 'Random Shinanegans',
 					autogenerate: { directory: 'shinanegans' }						
 				},
+				{
+					label: 'Archived Stuff',
+					autogenerate: { directory: 'archive' }						
+				}
 			],
 		}),
 	],
