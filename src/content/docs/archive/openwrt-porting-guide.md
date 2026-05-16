@@ -5,7 +5,8 @@ description: Archive of a OpenWRT porting guide
 ## This is a copy! I am not the original creator!
 I just found this write up to be useful for my own porting adventure. I am making this copy for myself to use and to preserve. 
 
-I found the write up through [this Reddit post](https://www.reddit.com/r/openwrt/comments/gyfit0/guide_on_porting_openwrt_to_devices_with_an/) and the orginal link is this [Gitea page](https://git.lsd.cat/g/openwrt-cpe46b)
+I found the write up through [this Reddit post](https://www.reddit.com/r/openwrt/comments/gyfit0/guide_on_porting_openwrt_to_devices_with_an/) and the orginal link is this [Gitea page](https://git.lsd.cat/g/openwrt-cpe46b).
+
 I am extracting the contents from [this snapshot](https://web.archive.org/web/20260310214817/https://git.lsd.cat/g/openwrt-cpe46b) of the page. All text and images will be left as is, with the formatting being eyeballed by hand. 
 
 ## Update
