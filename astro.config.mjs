@@ -13,23 +13,23 @@ export default defineConfig({
 			sidebar: [
 				{
 					label: 'Guides',
-					autogenerate: { directory: 'guides' }						
+					items: [{autogenerate: { "directory": 'guides' }}]						
 				},
 				{
 					label: 'Headscale',
-					autogenerate: { directory: 'headscale' }						
+					items: [{autogenerate: { "directory": 'headscale' }}]						
 				},
 				{
 					label: 'Homelab',
-					autogenerate: { directory: 'homelab' }						
+					items: [{autogenerate: { "directory": 'homelab' }}]
 				},
 				{
 					label: 'Random Shinanegans',
-					autogenerate: { directory: 'shinanegans' }						
+					items: [{autogenerate: { "directory": 'shinanegans' }}]						
 				},
 				{
 					label: 'Archived Stuff',
-					autogenerate: { directory: 'archive' }						
+					items: [{autogenerate: { "directory": 'archive' }}]
 				}
 			],
 		}),
