@@ -9,7 +9,7 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: "A Nerd's Notebook",
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/binder-badge/binder-badge.github.io' }],
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/binder-badge/wiki' }],
 			sidebar: [
 				{
 					label: 'Guides',
